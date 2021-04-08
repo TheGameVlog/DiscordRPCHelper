@@ -11,10 +11,10 @@ DiscordEasyRPC.CreateClient()
 'then start the client
 DiscordEasyRPC.StartClient("Test")
 
-#Add Button Support
+# Add Button Support
 DiscordEasyRPC.AddActionButton(label, url)
 
-#Includes Example Solution
+# Includes Example Solution
 
-#Credits and Dependencies 
+# Credits and Dependencies 
 https://github.com/Lachee/discord-rpc-csharp
