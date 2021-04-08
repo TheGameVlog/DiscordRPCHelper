@@ -15,8 +15,9 @@ DiscordEasyRPC.StartClient("Test")
 
 ```
 # Add Button Support
+```Visual Basic
 DiscordEasyRPC.AddActionButton(label, url)
-
+```
 # Includes Example Solution
 
 # Credits and Dependencies 
